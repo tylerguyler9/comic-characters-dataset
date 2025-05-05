@@ -6,8 +6,8 @@ Here's a summary of this research project
 ## Dataset
 * This project makes use of [two datasets found on Kaggle](https://www.kaggle.com/datasets/fivethirtyeight/fivethirtyeight-comic-characters-dataset)
   * `dc-wikia-data` and `marvel-wikia-data`
-* This project creates a new dataset containing both DC and Marvel characters
-  - `comic_characters` using [data-adjustments.ipynb](src/data/data-adjustments.ipynb)
+* This project creates a new dataset containing both the DC and Marvel characters
+  - `comic_characters` which can be found [here](src/data/comic_characters.csv)
 ## Questions
 * Here are the questions that were answered:
   * Which comic characters appear the most?
