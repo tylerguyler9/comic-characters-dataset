@@ -21,3 +21,16 @@ Here are the visualizations created in this project:
   * [Sexes of Comic Characters](src/visualizations/Sexes_of_Comic_Characters.png)
 
 They were created using [research.ipynb](src/research.ipynb)
+# Conclusions
+Here are the answers to the questions:
+
+ * The comic characters with the most appearances are: Batman, Superman, Green Lantern, James Gordon, and Richard Grayson
+ * The most common eye colors of the comic characters are: blue, brown, green, black, and red
+ * The most common hair colors of the comic characters are: black, brown, blond, red, and "no"
+ * There are more male comic characters than female comic characters (4699 males, 2316 females)
+
+Potential limitations to the dataset:
+ * Not all entries had complete information, so a lot of comic characters were excluded from the dataset (the clean dataset has 7,281 names but the original dataset has 23,272 names)
+
+For future work, we could:
+ * Look into the first appearance year of the characters!
