@@ -12,6 +12,12 @@ Here's a summary of this research project
 * Here are the questions that were answered:
   * Which comic characters appear the most?
   * How common are each eye color, hair color, and sex?
-## Research
-* Here are the visualizations created by [research.ipynb](src/research.ipynb):
-  * TBA
+## Research / Visualizations
+Here are the visualizations created in this project:
+
+  * [Comic Characters With Most Appearanes](src/visualizations/Comic_Characters_With_Most_Appearanes.png)
+  * [Most Common Eye Colors of Comic Characters](src/visualizations/Most_Common_Eye_Colors_of_Comic_Characters.png)
+  * [Most Common Hair Colors of Comic Characters](src/visualizations/Most_Common_Hair_Colors_of_Comic_Characters.png)
+  * [Sexes of Comic Characters](src/visualizations/Sexes_of_Comic_Characters.png)
+
+They were created using [research.ipynb](src/research.ipynb)
